@@ -1,0 +1,42 @@
+/* Style 1
+
+-Ejemplo-
+Selector: etiqueta p 
+propiedad: color 
+Valor: #000000
+
+*/
+
+body {
+    background-color: rgb(252, 255, 102);
+}
+
+#Parrafo1 {color: whitesmoke; 
+    background-color: blueviolet;
+    font-style: italic;
+}
+
+
+#Parrafo2 {color: white;
+background-color: black;
+}
+
+.Cohorte15 { 
+    background-color: rgb(250, 86, 209); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Silvia {color: rgb(247, 233, 233);}
+
+#Berenice {color: rgb(40, 52, 165);}
+
+/* Modelo de cajas */
+.caja {
+    
+    border-style: dotted;
+    border-radius: 30px;
+    padding: 15px ; /*Margen interno*/
+    background-color:white;
+    margin: p30x;  /*margen de la caja */
+
+}
