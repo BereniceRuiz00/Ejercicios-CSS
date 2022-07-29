@@ -40,3 +40,76 @@ background-color: black;
     margin: p30x;  /*margen de la caja */
 
 }
+
+/* Caja Flotante estilo */
+
+
+
+.cajaflotante{
+    margin: 40px 30px 0px 30px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+    border-radius: 5px;
+    border-top: solid 0px;
+}
+.contenido {
+    padding: 15px;
+}
+
+.cabecera {
+    padding: 10px;
+    border-bottom: solid 1px #eeeeee;
+}
+
+.footer{
+    padding: 10px;
+    border-top: solid 1px #eeeeee;
+}
+
+.primario {
+    background-color: #0090ff;  
+    border: 0px;
+    padding: 5px;
+    color: #ffffff;
+    border-radius: 2px;
+}
+
+.secundario {
+    background-color: #aaaaaa;  
+    border: 0px;
+    padding: 5px;
+    color: #ffffff;
+    border-radius: 2px;
+}
+
+.facebook{
+    margin: 20px;
+    padding: 15px;
+    background-color: #3b5998;
+    color: white;
+    font-size: 20px;
+    border: 2px solid #cccccc;
+    border-radius: 10px;
+}
+
+.instagram{
+    margin: 20px;
+    padding: 15px;
+    background-color: #a51699;
+    color: white;
+    font-size: 20px;
+    border: 2px solid #cccccc;
+    border-radius: 10px;
+}
+
+.tiktok{
+    margin: 20px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: 2px solid #cccccc;
+    border-radius: 10px;
+}
